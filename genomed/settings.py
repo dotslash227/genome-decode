@@ -25,7 +25,7 @@ SECRET_KEY = '#@@!#hfp7mgk$g+207)yzi&q3ddt&9m4fztwof84*bhh9p&f5^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["aqueous-reaches-17013.herokuapp.com"]
 
 
 # Application definition
