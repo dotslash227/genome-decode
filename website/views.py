@@ -28,6 +28,5 @@ def calculator(request):
     "pvalue":pvalue,
     "significance":significance
     }
-    print vvariation, vcontrol, ccontrol, cvariation
 
     return JsonResponse(response)
