@@ -1,1 +1,1 @@
-web: gunicorn gdtest.wsgi --log-file -
+web: gunicorn genomed.wsgi --log-file -
